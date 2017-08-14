@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurreilyDoomWadLibrary", "SurreilyDoomWadLibrary\SurreilyDoomWadLibrary.csproj", "{01F78C05-2ACF-457C-AD62-F9943096E3E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurreilyDoomWadLibrary.Test", "SurreilyDoomWadLibrary.Test\SurreilyDoomWadLibrary.Test.csproj", "{8F0A65C0-37CE-4629-9DDA-61F5AA37E563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurreilyDoomWadLibrary.Wad", "SurreilyDoomWadLibrary.Model\SurreilyDoomWadLibrary.Wad.csproj", "{C69F21AE-F202-4BE6-B6EB-7F3D87CB34E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurreilyDoomWadLibrary.File", "SurreilyDoomWadLibrary.Manager\SurreilyDoomWadLibrary.File.csproj", "{06850D74-D84C-4418-B593-B80B55F506AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F78C05-2ACF-457C-AD62-F9943096E3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F78C05-2ACF-457C-AD62-F9943096E3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F78C05-2ACF-457C-AD62-F9943096E3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F78C05-2ACF-457C-AD62-F9943096E3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F0A65C0-37CE-4629-9DDA-61F5AA37E563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0A65C0-37CE-4629-9DDA-61F5AA37E563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0A65C0-37CE-4629-9DDA-61F5AA37E563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0A65C0-37CE-4629-9DDA-61F5AA37E563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C69F21AE-F202-4BE6-B6EB-7F3D87CB34E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69F21AE-F202-4BE6-B6EB-7F3D87CB34E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69F21AE-F202-4BE6-B6EB-7F3D87CB34E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69F21AE-F202-4BE6-B6EB-7F3D87CB34E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06850D74-D84C-4418-B593-B80B55F506AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06850D74-D84C-4418-B593-B80B55F506AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06850D74-D84C-4418-B593-B80B55F506AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06850D74-D84C-4418-B593-B80B55F506AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
